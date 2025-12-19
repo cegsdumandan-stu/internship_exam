@@ -1,0 +1,5 @@
+{
+  "name": "Simple React & Node Login",
+  "description": "A clean, responsive login interface built with React and Tailwind CSS, accompanied by a structured Node.js/Express backend API.",
+  "requestFramePermissions": []
+}
